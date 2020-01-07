@@ -10,3 +10,7 @@ The JNSQ KSC Harbor without JNSQ. KSC Extended (in background) not included.
 * Medium Dish Station near the Helipad is a GroundStation, closed by default due to proximity to KSC.
 * Standalone Utility Buildings will hold 1.33x the amount of a mid-sized Kerbodyne tank and accept any resources held by active vessel.
 * Two fuel depots allow for refueling the active vessel if near enough (and if player has $$ in Career). Compatible with CRP and WBI Cassic Stock.
+
+## Requires
+* [Kerbal Konstructs](https://spacedock.info/mod/1052/Kerbal-Konstructs)
+* [Omega's Stockalike Structures: No Textures Required](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required)
