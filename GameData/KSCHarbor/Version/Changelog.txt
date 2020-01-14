@@ -1,3 +1,11 @@
+1.1.0 * 2020-01-13
+- - - -  - - - -  - - - -  - - - - 
+* Moved and rotated harbor to north-west position.
+* Added connecting roads to Squad KSC and some KSC Extended facilities.
+* Added billboards (will show the active flag) and a roundabout for TOKYOU DURIFTU shenanigans.
+* Raised costs and adjusted craft mass limits on hangars.
+* Confirmed compatibility with KerbinSide Remastered.
+
 1.0.0 * 2020-01-07
 - - - -  - - - -  - - - -  - - - - 
 Initial release.
