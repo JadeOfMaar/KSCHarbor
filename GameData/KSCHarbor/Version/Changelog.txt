@@ -1,3 +1,9 @@
+1.2 * 2020-03-25
+- - - -  - - - -  - - - -  - - - - 
+* Added some barracks near the mission control. Required in order to staff the payload integration complex.
+* Tidied facility display names.
+
+
 1.1.1 * 2020-01-13
 - - - -  - - - -  - - - -  - - - - 
 * Corrected the zip file.
