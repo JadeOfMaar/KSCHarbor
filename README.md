@@ -1,7 +1,7 @@
 # KSC Harbor
 ### Licensed: CC-BY-NC-SA
 The JNSQ KSC Harbor without JNSQ. KSC Extended (in background) not included.
-![Harbor screenshot](https://i.postimg.cc/j5XvdSnH/screenshot101.png)
+![Harbor screenshot](https://i.postimg.cc/MTCRwkdj/screenshot102.png)
 
 ## Features
 * Spawn points: Helipad, Rover, Water (directly over the submerged giant triangle).
